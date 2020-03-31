@@ -2,11 +2,11 @@
 Collection of python notebooks for the course of Data-Mining,
 MS in Computer Science @ DIMES-University of Calabria, CS, IT
 
-# (Potential) Road map
+f# (Potential) Road map
 
 > * Lecture 1 - Introduction, NumPy Basics
-> * Lecture 2 - Data Handling with Pandas
-> * Lecture 3 - Data Visualization with matplotlib and seaborn | Dimensionality Reduction
+> * Lecture 2 - Data Handling with Pandas - Part I
+> * Lecture 3 - Data Handling with Pandas - Part II. Data Visualization with matplotlib and seaborn
 > * Lecture 4 - Time Series Manipulation
 > * Lecture 5 - A gentle introduction to scikit-learn 
 > * Lecture 6 - A classification problem
