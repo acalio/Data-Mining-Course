@@ -2,7 +2,7 @@
 Collection of python notebooks for the course of Data-Mining,
 MS in Computer Science @ DIMES-University of Calabria, CS, IT
 
-f# (Potential) Road map
+# (Potential) Road map
 
 > * Lecture 1 - Introduction, NumPy Basics
 > * Lecture 2 - Data Handling with Pandas - Part I
